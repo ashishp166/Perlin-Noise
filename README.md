@@ -1,0 +1,3 @@
+Perlin noise created by Ken Perlin is used mainly in computer graphics, specifically computer game development, to be able to generate procedural content gerneration. This is used in game development to creade procedural terrains(like in Minecraft).
+This notebook mainly looks at Perlin Noise with 2 dimensional noise.
+The Perlin algorithm would make sure the texture over the image creates a smooth tranition from pixel to pixel and in the notebook the fade function is able to help with this. 
